@@ -1,6 +1,10 @@
 # jetbrains-redirect
 Simple Express.js app that redirects localhost URLs to jetbrains:// protocol (for use with WSL)
 
+## Requirements
+- Docker
+- [Jetbrains Toolbox App](https://www.jetbrains.com/toolbox-app/)
+
 ## Usage
 1. Checkout this repository
 2. `docker-compose up`
