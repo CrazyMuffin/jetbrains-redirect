@@ -1,0 +1,15 @@
+{
+  "name": "jetbrains-redirect",
+  "version": "1.0.0",
+  "description": "Redirects to jetbrains:// url from localhost",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ondřej Netík <ondrej.netik@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

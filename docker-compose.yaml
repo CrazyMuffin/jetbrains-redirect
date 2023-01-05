@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  web:
+    container_name: jetbrains-redirect
+    build: .
+    ports:
+      - "8069:8080"
